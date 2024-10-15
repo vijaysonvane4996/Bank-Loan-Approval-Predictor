@@ -1,1 +1,1 @@
-# Finance-Banking-Predication
+# Bank Loan Approval Predictor
